@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEncoder", "StringEncoder\StringEncoder.csproj", "{0FAD9D86-A0F5-4A3E-A48C-B6E12A5AC069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEncoder.Test", "StringEncoder.Test\StringEncoder.Test.csproj", "{09369D27-3989-4C5E-BB12-0C82F54D7BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAD9D86-A0F5-4A3E-A48C-B6E12A5AC069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAD9D86-A0F5-4A3E-A48C-B6E12A5AC069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAD9D86-A0F5-4A3E-A48C-B6E12A5AC069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAD9D86-A0F5-4A3E-A48C-B6E12A5AC069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09369D27-3989-4C5E-BB12-0C82F54D7BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09369D27-3989-4C5E-BB12-0C82F54D7BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09369D27-3989-4C5E-BB12-0C82F54D7BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09369D27-3989-4C5E-BB12-0C82F54D7BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
